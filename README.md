@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Version](https://github.com/user-attachments/assets/c87da616-ba88-4cfd-9717-66f843fbed8a | width=100)
-![Desktop Version](https://github.com/user-attachments/assets/64e9a2aa-df33-4a8e-beb9-d3cb821943be | width=100)
+![Mobile Version](https://github.com/user-attachments/assets/c87da616-ba88-4cfd-9717-66f843fbed8a)
+![Desktop Version](https://github.com/user-attachments/assets/64e9a2aa-df33-4a8e-beb9-d3cb821943be)
 
 
 
